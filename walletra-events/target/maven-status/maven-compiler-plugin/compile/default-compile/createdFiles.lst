@@ -1,0 +1,10 @@
+com\walletra\events\WalletCreditedEvent.class
+com\walletra\events\PaymentSuccessEvent.class
+com\walletra\events\WalletDebitedEvent.class
+com\walletra\events\PaymentFailureEvent.class
+com\walletra\events\WalletCreditedFailedEvent.class
+com\walletra\App.class
+com\walletra\events\TransactionRequest.class
+com\walletra\events\WalletDebitedFailedEvent.class
+com\walletra\events\TransactionDebitSuccessEvent.class
+com\walletra\events\TransactionInitiatedEvent.class
