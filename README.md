@@ -494,7 +494,7 @@ microservice-fintech/
     ├── otel-collector-config.yaml
     └── tempo-config.yaml
 ```
-
+Inspired from rishab
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
